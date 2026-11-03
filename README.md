@@ -16,7 +16,8 @@
 7. Завершить программу.
 
 # Блок-схема
-<img width="362" height="528" alt="Диаграмма без названия (3)" src="https://github.com/user-attachments/assets/31b1be05-9467-47a0-9f99-8a9b29a4bdd2" />
+<img width="372" height="487" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/120d784a-3575-46b7-be8a-d2e30333f3ad" />
+
 
 
 
